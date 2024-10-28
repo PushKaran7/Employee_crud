@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "firstName": "Kobe ",
+      "lastName": "Bryant GOAT",
+      "email": "kobe12@gmail.com",
+      "dob": "2024-09-30T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Post Graduation",
+      "company": "Basketball Legend",
+      "package": 134,
+      "experience": 123,
+      "id": "79ec"
+    },
+    {
+      "firstName": "Spider Morales",
+      "lastName": "Man",
+      "email": "spider16@gmail.com",
+      "dob": "2024-10-08T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Intermediate",
+      "company": "Micro",
+      "package": 12,
+      "experience": 12,
+      "id": "7dfd"
+    },
+    {
+      "firstName": "Thor",
+      "lastName": "Odinson",
+      "email": "thor@gmail.com",
+      "dob": "2024-10-10T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Post Graduation",
+      "company": "Asgard",
+      "package": 123,
+      "experience": 12,
+      "id": "71f4"
+    },
+    {
+      "firstName": "Hawkeye",
+      "lastName": "Avenger",
+      "email": "hawk@gmail.com",
+      "dob": "2024-10-17T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduate",
+      "company": "Avengers Club",
+      "package": 11,
+      "experience": 4,
+      "id": "d9ef"
+    },
+    {
+      "id": "2430",
+      "firstName": "Black",
+      "lastName": "Widow",
+      "email": "black@gmail.com",
+      "dob": "2024-05-07T18:30:00.000Z",
+      "gender": "Female",
+      "education": "Post Graduation",
+      "company": "Dont know",
+      "package": 1,
+      "experience": 12
+    }
+  ]
+}
